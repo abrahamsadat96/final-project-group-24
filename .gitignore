@@ -1,0 +1,5 @@
+data/.gitkeep
+data/raw-data/.gitkeep
+data/derived-data/.gitkeep
+data/streamlit-app/.gitkeep
+code/.gitkeep
